@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 using System.Threading;
 using System.Configuration;
 using System.Net;
+using Microsoft.Azure.Storage.DataMovement;
 using Microsoft.Azure.Storage;
 using Microsoft.Azure.Storage.Blob;
-using Microsoft.Azure.Storage.DataMovement;
 
 namespace UploadImages
 {
